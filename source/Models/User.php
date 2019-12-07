@@ -18,5 +18,4 @@
       return (new Comments())->find("IDUSER = :uid", "uid={$this->IDUSER}")->fetch(true);
     }
   }
-
 ?>

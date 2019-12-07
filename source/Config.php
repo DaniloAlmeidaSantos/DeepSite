@@ -1,4 +1,8 @@
 <?php
+  // Router
+  define("URL_BASE", "https://www.localhost/Git/local/DeepSite");
+  
+  // Configura o banco de dados
   define("DATA_LAYER_CONFIG", [
     "driver" => "mysql",
     "host" => "localhost",

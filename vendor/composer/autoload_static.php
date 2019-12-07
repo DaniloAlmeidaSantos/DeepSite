@@ -21,6 +21,7 @@ class ComposerStaticInit0eafd8d9d7c277e824308757f38bcd3f
         ),
         'C' => 
         array (
+            'CoffeeCode\\Router\\' => 18,
             'CoffeeCode\\DataLayer\\' => 21,
         ),
     );
@@ -33,6 +34,10 @@ class ComposerStaticInit0eafd8d9d7c277e824308757f38bcd3f
         'PHPMailer\\PHPMailer\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
+        ),
+        'CoffeeCode\\Router\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/coffeecode/router/src',
         ),
         'CoffeeCode\\DataLayer\\' => 
         array (

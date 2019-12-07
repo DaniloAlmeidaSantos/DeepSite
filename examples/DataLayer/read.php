@@ -22,8 +22,8 @@
 
   // Desta forma busca tudo
   // foreach ($list as $row) {
-  //   // var_dump($row->data()); Trás todos os dados da tabela
-  //   var_dump($row->NICKNAME); // Trás apenas do dado especifico da tabela
+  //   var_dump($row->data()); Trás todos os dados da tabela
+  //   var_dump($row->NICKNAME); Trás apenas do dado especifico da tabela
   //   var_dump($row->comment());
   // }
 
