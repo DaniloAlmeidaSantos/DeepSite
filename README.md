@@ -1,2 +1,2 @@
 # DeepSite
-Site desenvolvido com base em PHP Tips.
+Site de testes em MVC.
